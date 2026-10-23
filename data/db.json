@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "WebToon",
+    "description": "縦読み漫画置き場",
+    "baseUrl": "https://uemegu.github.io/WebToon",
+    "author": "",
+    "twitter": ""
+  },
+  "series": [
+    {
+      "id": "chikuwa-0815",
+      "title": "8時15分のちくわ",
+      "author": "",
+      "description": "",
+      "cover": null,
+      "episodes": [
+        {
+          "id": "ep1",
+          "title": "第1話",
+          "description": "",
+          "date": "2026-10-23",
+          "published": true,
+          "og": "mvjpyzpgff7d8c.jpg",
+          "pages": [
+            {
+              "file": "001.png",
+              "w": 800,
+              "h": 4343
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

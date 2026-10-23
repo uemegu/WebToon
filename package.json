@@ -1,0 +1,12 @@
+{
+  "name": "webtoon",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "admin": "node admin/server.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}
